@@ -1,4 +1,5 @@
-# Navie_Bayes_Algorithm
+# Navie_Bayes_Algorithm (Gaussian Navie Bayes )
+
 It is based on Navie Bayes Theorem 
 ## Navie Bayes Theorm
 Navie Bayes Theorm determine conditional probabolity.Through it we create Frequency Table 
